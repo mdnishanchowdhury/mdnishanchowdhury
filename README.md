@@ -22,9 +22,9 @@
 
 ## 📌 Featured Projects  
 
-- 🔗 [Hostel Management System](https://github.com/your-username/project-link)  
-- 🔗 [E-commerce Website](https://github.com/your-username/project-link)  
-- 🔗 [Portfolio Website](https://github.com/your-username/project-link)  
+- 🔗 [Ai Hostel Management System](https://ai-hostel-system.web.app/)  
+- 🔗 [E-commerce Website](https://bazarhat-ad2e5.web.app/)
+- 🔗 [Portfolio Website](https://personalportfolio-a0877.web.app/)
 
 *(Replace the links with your actual project repos or live demos)*  
 
@@ -39,10 +39,10 @@
 ---
 
 ## 🌱 About Me  
-- 🔭 Currently working on **MERN/MEAN stack projects**  
+- 🔭 Currently working on **MERN stack projects**  
 - 🌱 Exploring **backend optimization & cloud deployment**  
 - ⚡ I love blending **design + development** for impactful solutions  
-- 📫 Reach me at: [your email or portfolio link]  
+- 📫 Reach me at: [mdnishanchowdhury.cse@gmail.com]  
 
 ---
 
