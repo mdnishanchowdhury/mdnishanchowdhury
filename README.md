@@ -25,11 +25,9 @@
 
 ## 📌 Featured Projects  
 
-- 🔗 [Ai Hostel Management System](https://ai-hostel-system.web.app/)  
-- 🔗 [E-commerce Website](https://bazarhat-ad2e5.web.app/)
-- 🔗 [Portfolio Website](https://personalportfolio-a0877.web.app/)
-
-*(Replace the links with your actual project repos or live demos)*  
+- 🔗 [Ai Hostel Management System (Live)](https://ai-hostel-system.web.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/AI-Hostel-Management-System)
+- 🔗 [E-commerce Website (Live)](https://bazarhat-ad2e5.web.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/BazarHut)
+- 🔗 [Portfolio Website (Live)](https://personalportfolio-a0877.web.app/) 
 
 ---
 
