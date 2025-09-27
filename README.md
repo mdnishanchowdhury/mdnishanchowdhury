@@ -45,7 +45,7 @@
 - 🔭 Currently working on **MERN stack projects**  
 - 🌱 Exploring *Fontend* & backend web developer**  
 - ⚡ I love blending **design + development** for impactful solutions  
-- 📫 Reach me at: mdnishanchowdhury.cse@gmail.com]
+- 📫 Reach me at: mdnishanchowdhury.cse@gmail.com
 
 ---
 
