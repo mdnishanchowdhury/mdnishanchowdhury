@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats  
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnishanchowdhury&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnishanchowdhury&layout=compact&theme=radical)  
 
 ---
 
 ## 🌱 About Me  
 - 🔭 Currently working on **MERN stack projects**  
-- 🌱 Exploring **backend optimization & cloud deployment**  
+- 🌱 Exploring *Fontend* & backend web developer**  
 - ⚡ I love blending **design + development** for impactful solutions  
 - 📫 Reach me at: [mdnishanchowdhury.cse@gmail.com]  
 
