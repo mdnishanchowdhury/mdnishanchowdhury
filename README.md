@@ -26,7 +26,7 @@
 ## 📌 Featured Projects  
 
 - 🔗 [Ai Hostel Management System (Live)](https://ai-hostel-system.web.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/AI-Hostel-Management-System)
-- 🔗 [E-commerce Website (Live)](https://bazarhat-ad2e5.web.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/BazarHut)
+- 🔗 [E-commerce Website (Live)](https://haatzo.web.app) | [GitHub Repo](https://github.com/mdnishanchowdhury/Haatzo)
 - 🔗 [Portfolio Website (Live)](https://personalportfolio-a0877.web.app/) 
 
 ---
