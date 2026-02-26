@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Md Nishan Chowdhury  
 
-💻 **Full-Stack Web Developer** | 🎨 **Graphics Designer**  
+💻 **Full-Stack Web Developer** 
 🚀 Passionate about building scalable, modern, and user-friendly applications.  
 
 ---
