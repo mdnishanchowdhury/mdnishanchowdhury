@@ -25,6 +25,7 @@
 
 ## 📌 Featured Projects  
 
+- 🔗 [EcoSpark Hub (Live)](https://ecospark-hub-client.vercel.app) | [GitHub Repo](https://github.com/mdnishanchowdhury/EcoSpark-Hub)
 - 🔗 [Medicine Store (Live)](https://medi-store-client-eight.vercel.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/medicine-ecommerce)
 - 🔗 [Ai Hostel Management System (Live)](https://ai-hostel-system.web.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/AI-Hostel-Management-System)
 - 🔗 [E-commerce Website (Live)](https://haatzo.vercel.app/) | [GitHub Repo](https://github.com/mdnishanchowdhury/Haatzo)
